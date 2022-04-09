@@ -1,4 +1,4 @@
-Hello 👋
+# Hello 👋
 
 I'm Grzegorz. I'm from Poland, living in Łódź. I search job as Junior .Net Developer. 
 
