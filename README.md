@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm Grzegorz. I'm from Poland, living in Łódź. I search job as Junior .Net Developer. 
+I'm Grzegorz. I'm from Poland, living in Łódź. I'm looking for a job as Junior .Net Developer.
 
 - 👀 I’m interested in .Net and Web Technology.
 - 🌱 I’m currently learning Web development (backend + frontend).
