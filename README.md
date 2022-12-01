@@ -4,7 +4,7 @@ I'm Grzegorz. I'm from Poland, living in Łódź. I'm looking for a job as Junio
 
 - 👀 I’m interested in .Net and Web Technology.
 - 🌱 I’m currently learning Web development (backend + frontend).
-- 💪 I'm looking for new challenges that will allow me to develop my key competences..
+- 💪 I'm looking for new challenges that will allow me to develop my key competences.
 - 🔍 You can find me on [![LinkedIn][1.2]][1]
 - ✏️ This is my blog https://dev-grzegorz.pl/
 
